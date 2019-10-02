@@ -4,7 +4,7 @@
             <div class="row" >
                 <div class="col s12 m6 offset-m3 l4 offset-l4" >
                     <div class="card" >
-                        <h2 class="title teal-text" >
+                        <h2 class="title  brown-text text-darken-1" >
                             Welcome
                         </h2 >
                         <div class="card-content" >
@@ -12,13 +12,13 @@
 
 
                                 <div class="input-field " >
-                                    <i class="material-icons prefix teal-text" >account_circle</i >
+                                    <i class="material-icons prefix brown-text text-darken-1" >account_circle</i >
                                     <input v-model="name" id="name" type="text"  >
                                     <label for="name" >Enter Name</label >
                                     <p v-if="message" class="red-text" >{{message}}</p >
                                 </div >
 
-                                <button type="submit" class="btn " @click.prevent="onSubmitHandler()" >
+                                <button type="submit" class="btn  brown darken-1" @click.prevent="onSubmitHandler()" >
                                     Enter Chat
                                     <i class="material-icons right" >chat</i >
                                 </button >
@@ -81,5 +81,19 @@
         /*button:hover{*/
         /*    color: white !important;*/
         /*}*/
+
+
+
+
+
+
+
+
+
+
     }
+
+
+
+
 </style >
