@@ -1,0 +1,21 @@
+[debug] [2019-10-02T09:04:24.987Z] ----------------------------------------------------------------------
+[debug] [2019-10-02T09:04:24.989Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Silver Surfer\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2019-10-02T09:04:24.990Z] CLI Version:   7.4.0
+[debug] [2019-10-02T09:04:24.990Z] Platform:      win32
+[debug] [2019-10-02T09:04:24.990Z] Node Version:  v12.4.0
+[debug] [2019-10-02T09:04:24.993Z] Time:          Wed Oct 02 2019 14:04:24 GMT+0500 (Pakistan Standard Time)
+[debug] [2019-10-02T09:04:24.993Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2019-10-02T09:04:25.005Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-10-02T09:04:25.006Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\Practice\VueFireBase\realtime-chat
+
